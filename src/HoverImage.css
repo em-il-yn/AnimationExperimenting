@@ -1,0 +1,11 @@
+/* HoverImage.css */
+.hover-image {
+    width: 200px; /* Adjust the initial width */
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .hover-image.hovered {
+    transform: translate(10px, 10px); /* Adjust the amount of movement */
+  }
+  

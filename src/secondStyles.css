@@ -1,0 +1,44 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('../public/secondBackground.png'); /* Update with your image file path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+  
+  main {
+    text-align: center;
+  }
+
+  .second-page {
+    background-image: url('../public/secondBackground.png'); /* Update with the path to your second page background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .button-container {
+    margin-top: 2rem;
+  }
+  
+  .image-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .image-button img {
+    width: auto; /* Set the width as per your requirement */
+    height: auto;
+  }
+
+
+  
