@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3962bd6.css",
-    "main.js": "/static/js/main.d3eb0730.js",
-    "static/js/787.fe24e2f7.chunk.js": "/static/js/787.fe24e2f7.chunk.js",
-    "static/media/secondBackground.png": "/static/media/secondBackground.09c86c602d6ca7cb766f.png",
-    "index.html": "/index.html",
-    "main.a3962bd6.css.map": "/static/css/main.a3962bd6.css.map",
-    "main.d3eb0730.js.map": "/static/js/main.d3eb0730.js.map",
-    "787.fe24e2f7.chunk.js.map": "/static/js/787.fe24e2f7.chunk.js.map"
+    "main.css": "/AnimationExperimenting/static/css/main.1a4e9949.css",
+    "main.js": "/AnimationExperimenting/static/js/main.41902f79.js",
+    "static/js/787.fe24e2f7.chunk.js": "/AnimationExperimenting/static/js/787.fe24e2f7.chunk.js",
+    "static/media/secondBackground.png": "/AnimationExperimenting/static/media/secondBackground.09c86c602d6ca7cb766f.png",
+    "index.html": "/AnimationExperimenting/index.html",
+    "main.1a4e9949.css.map": "/AnimationExperimenting/static/css/main.1a4e9949.css.map",
+    "main.41902f79.js.map": "/AnimationExperimenting/static/js/main.41902f79.js.map",
+    "787.fe24e2f7.chunk.js.map": "/AnimationExperimenting/static/js/787.fe24e2f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3962bd6.css",
-    "static/js/main.d3eb0730.js"
+    "static/css/main.1a4e9949.css",
+    "static/js/main.41902f79.js"
   ]
 }
